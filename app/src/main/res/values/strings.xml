@@ -1,0 +1,44 @@
+<resources>
+    <string name="app_name">prj3Quiz</string>
+    <!-- Title String-->
+    <string name="quiz_title">The Tree Test</string>
+    <!-- Question Titles-->
+    <string name="question_1">Name the type of tree whose leaves are pictured</string>
+    <string name="question_2">Which trees have needles?</string>
+    <string name="question_3">Which species trees are the tallest?</string>
+    <string name="question_4">What do trees require to produce oxygen?</string>
+    <string name="question_5">How many trees does it take to produce oxygen for one person?</string>
+    <!-- Question 1 possible answers-->
+    <string name="question_1a">oak</string>
+    <string name="question_1b">Oak</string>
+    <!-- Question 2 choices-->
+    <string name="question_2_check_box1">Pine</string>
+    <string name="question_2_check_box2">Birch</string>
+    <string name="question_2_check_box3">Spruce</string>
+    <!-- Question 3 choices-->
+    <string name="question_3_answer_1">Coast Redwood</string>
+    <string name="question_3_answer_2">Giant Sequoi</string>
+    <string name="question_3_answer_3">Dawn Redwood</string>
+    <!-- Question 5 choices-->
+    <string name="question_4_answer_1">Water</string>
+    <string name="question_4_answer_2">Carbon Dioxide</string>
+    <string name="question_4_answer_3">Sunlight</string>
+    <!-- Question 5 choices-->
+    <string name="question_5_answer_1" translatable="false">3&#8211;4</string>
+    <string name="question_5_answer_2" translatable="false">7&#8211;8</string>
+    <string name="question_5_answer_3" translatable="false">23&#8211;24</string>
+    <!-- First question edit text field hint-->
+    <string name="question_1_hint">Type your answer here</string>
+    <!-- Image descriptions-->
+    <string name="first_image_descr">Photo of leaves that have rounded knobs extending out from center line. Symmetrical around clear median line.</string>
+    <string name="second_image_descr">Photo of tree needles</string>
+    <string name="third_image_descr">Photo of tall tree taken from base of the tree</string>
+    <string name="fourth_image_descr">Image of oxygen molecules in air</string>
+    <string name="fifth_image_descr">Landscape photo with trees and mountains</string>
+    <!-- Submit answers button text-->
+    <string name="submit_answers">Submit answers</string>
+    <!-- Toast message-->
+    <string name="toast_message"> out of 5 right</string>
+
+
+</resources>

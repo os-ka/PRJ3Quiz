@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">prj3Quiz</string>
+    <string name="fifth_image_descr">Ainavas fotogrāfija ar kokiem un kalniem</string>
+    <string name="first_image_descr">Fotogrāfija ar koka lapu. Lapa ir ar plūksnainu dzīslojumu un daivainu izgrieztu plātni. Robaina.</string>
+    <string name="fourth_image_descr">Attēls ar skābekļa molekulām gaisā.</string>
+    <string name="question_1">Nosaciet koka sugu, kura lapas ir attēlotas. (Nom., vsk.)</string>
+    <string name="question_1_hint">Ierakstiet savu atbildi šeit.</string>
+    <string name="question_1a">ozols</string>
+    <string name="question_1b">Ozols</string>
+    <string name="question_2">Kuriem kokiem ir skujas?</string>
+    <string name="question_2_check_box1">Priedēm</string>
+    <string name="question_2_check_box2">Bērziem</string>
+    <string name="question_2_check_box3">Eglēm</string>
+    <string name="question_3">Kuras sugas koki ir visgarākie pasaulē?</string>
+    <string name="question_3_answer_1">Mūžzaļā sekvoja</string>
+    <string name="question_3_answer_2">Mamutkoks</string>
+    <string name="question_3_answer_3">Reliktā metasekvoja</string>
+    <string name="question_4">Kas ir nepieciešams kokiem, lai ražotu skābekli?</string>
+    <string name="question_4_answer_1">Ūdens</string>
+    <string name="question_4_answer_2">Ogļskābā gāze</string>
+    <string name="question_4_answer_3">Saules gaisma</string>
+    <string name="question_5">Cik koki ir nepieciešami, lai nodrošinātu vienu cilvēku ar skābekli?</string>
+    <string name="quiz_title">Tests par kokiem</string>
+    <string name="second_image_descr">Attēls ar skujām</string>
+    <string name="submit_answers">Pārbaudīt atbildes</string>
+    <string name="third_image_descr">Fotogrāfija ar ļoti garu koku.</string>
+    <string name="toast_message">no 5 pareizi</string>
+</resources>
